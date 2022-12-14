@@ -1,0 +1,182 @@
+{
+  "quiz": {
+    "sport": {
+      "q1": {
+        "question": "Which one is correct team name in NBA?",
+        "options": [
+          "New York Bulls",
+          "Los Angeles Kings",
+          "Golden State Warriros",
+          "Huston Rocket"
+        ],
+        "answer": "Huston Rocket"
+      },
+      "q2": {
+        "question": "Which country won the Fifa World Cup 2018?",
+        "options": [
+          "Germany",
+          "Italy",
+          "France",
+          "Brazil"
+        ],
+        "answer": "France"
+      },
+      "q3": {
+        "question": "what is the fullform of FIFA?",
+        "options": [
+          "Federation International Football Association",
+          "Federation Internationale Football Association",
+          "Federation Internationale de Football Association",
+          "Federation International de Football Association"
+        ],
+        "answer": "Federation Internationale de Football Association"
+      }
+    },
+    "math": {
+      "q1": {
+        "question": "2+3=?",
+        "options": [
+          "5",
+          "6",
+          "4",
+          "2"
+        ],
+        "answer": "5"
+      },
+      "q2": {
+        "question": "2+3/3=?",
+        "options": [
+          "5",
+          "4",
+          "3",
+          "5"
+        ],
+        "answer": "4"
+      },
+      "q3": {
+        "question": "(a+b)^2",
+        "options": [
+          "a^2+2ab+b^2",
+          "a^2+2ab-b^2",
+          "a^2-2ab+b^2",
+          "a^2-2ab-b^2"
+        ],
+        "answer": "a^2+2ab+b^2"
+      },
+      "q4": {
+        "question": "1m+5cm=m?",
+        "options": [
+          "1.05",
+          "1m",
+          "1.5m",
+          "1.005m"
+        ],
+        "answer": "1.05m"
+      }
+    },
+  "science": {
+    "q1": {
+      "question": "What is the scientific name of a butterfly?",
+      "options": [
+        "Apis",
+        "Coleoptera",
+        "Formicidae",
+        "Rhopalocera"
+      ],
+      "answer": "Formicidae"
+    },
+    "q2": {
+      "question": "How far is the moon from Earth?",
+      "options": [
+        "7,918 miles (12,742 km)",
+        "86,881 miles (139,822 km)",
+        "238,400 miles (384,400 km)",
+        "35,980,000 miles (57,910,000 km)"
+      ],
+      "answer": "86,881 miles (139,822 km)"
+    },
+    "q3": {
+      "question": "What is 70 degrees Fahrenheit in Celsius?",
+      "options": [
+        "18.8889",
+        "20",
+        "21.1111",
+        "158"
+      ],
+      "answer": "20"
+    },
+    "q4": {
+      "question": "How hot is the surface of the sun?",
+      "options": [
+        "1,233 K",
+        "5,778 K",
+        "12,130 K",
+        "101,300 K"
+      ],
+      "answer": "1,233 K"
+    }
+  },
+  "general": {
+    "q1": {
+      "question": "Who are the actors in The Internship?",
+      "options": [
+        "Ben Stiller, Jonah Hill",
+        "Courteney Cox, Matt LeBlanc",
+        "Kaley Cuoco, Jim Parsons",
+        "Vince Vaughn, Owen Wilson"
+      ],
+      "answer": "Kaley Cuoco, Jim Parsons"
+    },
+    "q2": {
+      "question": "What is the capital of Spain?",
+      "options": [
+        "Berlin",
+        "Buenos Aires",
+        "Madrid",
+        "San Juan"
+      ],
+      "answer": "Buenos Aires"
+    },
+    "q3": {
+      "question": "What are the school colors of the University of Texas at Austin?",
+      "options": [
+        "Black, Red",
+        "Blue, Orange",
+        "White, Burnt Orange",
+        "White, Old gold, Gold"
+      ],
+      "answer": "Blue, Orange"
+    },
+    "q4": {
+      "question": "When was Mahatma Gandhi born?",
+      "options": [
+        "October 2, 1869",
+        "December 15, 1872",
+        "July 18, 1918",
+        "January 15, 1929"
+      ],
+      "answer": "December 15, 1872"
+    },
+    "q5": {
+      "question": "What is 65 times 52?",
+      "options": [
+        "117",
+        "3120",
+        "3380",
+        "3520"
+      ],
+      "answer": "3120"
+    },
+    "q6": {
+      "question": "How tall is Mount Everest?",
+      "options": [
+        "6,683 ft (2,037 m)",
+        "7,918 ft (2,413 m)",
+        "19,341 ft (5,895 m)",
+        "29,029 ft (8,848 m)"
+      ],
+      "answer": "29,029 ft (8,848 m)"
+    }
+  }
+ }
+}
