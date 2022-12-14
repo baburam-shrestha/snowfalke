@@ -1,0 +1,5 @@
+Data Warehouse Basics
+Data Warehouse architecture
+Data Warehouse infrastructure
+Data Modeling
+Dimension and Facts

@@ -1,3 +1,4 @@
+--using https://codebeautify.org/sqlformatter
  CREATE WAREHOUSE STORE_WAREHOUSE;
  
  CREATE DATABASE STORE_DATABASE;
